@@ -1,0 +1,8 @@
+Package: CKS2018
+Title: Generate Tables for Cohen, Kolassa, and Sackrowitz (2018)
+Version: 0.3
+Authors@R: c(person("Harold", "Sackrowitz", email = "sackrowi@stat.rutgers.edu", role ="aut"), person("Maryanne", "Sackrowitz", role ="aut"), person("John", "Kolassa", email = "kolassa@stat.rutgers.edu", role ="cre"))
+Description: Cohen, Kolassa, and Sawkrowitz (2018) provide a method for multiple comparisons after model selection, based on a generalized Bayesian Information Criterion.  We provide software to generate tables to compare Generalized BIC and stepwise model selection techniques.
+License: GPL-2
+LazyData: true
+RoxygenNote: 6.0.1
